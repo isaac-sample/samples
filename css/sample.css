@@ -1,0 +1,52 @@
+...
+body {
+    padding:0; margin:1; 
+}
+
+input {
+    border-radius:3px;
+}
+
+textarea {
+    border-radius:3px;
+}
+
+/* submit button: round edge, hover effect */
+button { 
+    border-radius:5px; 
+    padding:5px; padding-left:10px; padding-right:10px; 
+    margin:5px; font-style:italic; font-weight:bold; color:blue; 
+}
+
+/* jquery validator */ 
+.my-error-class {
+    color:#FF0000;
+    border: 2px dotted red; 
+}
+.my-valid-class {
+    color:#004400;
+}
+
+/* data grid, outer div */
+#divData1{
+    border: 3px solid red; 
+    text-align: center;
+}
+
+/* slickgrid */
+.txt-search {
+    margin: 0 4px 0 0px;
+    padding: 2px 5px 2px 0px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border: 1px solid silver;
+    width:65px; height:20px;
+    position:absolute; 
+}
+
+#my-grid {
+    background: white;
+    outline: 0;
+    border: 1px solid gray;
+}
+...
