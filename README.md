@@ -1,11 +1,12 @@
-### Sample code snippets from 6 source files and 2 projects that I worked with. ###
+# Sample code #
+* Here are some sample code snippets from 6 source files and 2 projects that I worked with. #
 
-#### project 1 - private accounting software ####
+#### project 1 - For a private accounting software ####
 * sample.html - landing page
 * ajax.php - php script to provide data via ajax method and json encoding
 * sample.css - css written for sample html
 * sample.js - ajax code for communicating with backend php and json decoding
 
-#### project 2 - PHP API to communicate with third parties ####
-* api_sample.php - a php class for api calls
+#### project 2 - For an API to communicate with third parties ####
+* api_sample.php - a php class for a few api calls
 * api_sample_test.php - a unit test for the class
